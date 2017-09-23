@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Red_wine - Red wine Wikipedia page
+https://github.com/dnafrance/r-markdown-cheatsheet/blob/master/r-markdown-cheatsheet.rmd - R markdown cheatsheet
+http://www.statmethods.net/advgraphs/ggplot2.html - ggplot2 package in R
+https://www.rdocumentation.org/packages/ggplot2/versions/2.2.1/topics/ggplot - ggplot documentation
+http://winefolly.com/tutorial/the-lightest-to-the-strongest-wine/ - More information about wine
