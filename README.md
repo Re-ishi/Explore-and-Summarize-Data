@@ -2,7 +2,6 @@
 Determine the properties which influence the quality of red wines.
 Citation Request:
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
-  Please include this citation if you plan to use this database:
 
   P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
   Modeling wine preferences by data mining from physicochemical properties.
